@@ -1,0 +1,98 @@
+.navbar{
+    padding: 0 50px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.navbar .container-fluid{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.navbar .top-navbar{
+    width: 100%;
+    max-width: 100%;
+}
+
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#nav{
+
+}
+
+.logo1{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.kotakBiru{
+    position: ralative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 200px;
+    width: auto;
+    padding: 0 px;
+    opacity: 0.8;
+    background-color: rgb(65, 203, 245);
+    background-size: cover;
+    z-index: 1;
+}
+
+.alphatech{
+    color: white;
+    margin: center;
+}
+
+.wrapper{
+    padding-top: 20px;
+    position: relative;
+    background-color: white;
+    padding-bottom: 110px
+}
+
+.logo1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: 2;
+}
+
+.section-row{
+    padding : 40px 0;
+}
+
+.row{
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px
+}
+
+.section-row .desckrip-15{
+    color : #8d8d8d;
+    margin : 0;
+    margin-top: 1.5rem;
+}
+
+.section-our-product{
+    margin : center;
+}
+
+.section-our-product img{
+    margin-left: 30px;
+}
